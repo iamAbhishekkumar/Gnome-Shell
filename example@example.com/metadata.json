@@ -1,0 +1,11 @@
+{
+    "description": "My Demo Extension",
+    "name" : "Example",
+    "shell-version": [
+        "5.0.17"
+    ],
+    "url" : "",
+    "uuid" : "example@example.com",
+    "version": 1
+
+}
